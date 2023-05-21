@@ -1,5 +1,5 @@
 # Data Science
-Program ini dibangun dengan Jupyter anda bisa install di ![sini](https://jupyter.org/install)
+Program ini dibangun dengan Jupyter anda bisa install di [sini](https://jupyter.org/install)
 
 # Result Diagram! ✔️
 
